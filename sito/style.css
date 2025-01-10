@@ -1,0 +1,209 @@
+.error {
+    color: red;
+}
+
+html,body {
+  padding: 0;
+  margin: 0;
+  font: 14px 'Open sans', sans-serif;
+  color: #333;
+  background-color: #fffff0;
+}
+
+div.result-blog{
+    margin: 1%;
+    padding: 1%;
+}
+
+#display {
+    color: #333;
+    margin: 2%;
+    padding: 2%;
+    float: center;
+}
+
+div.list-blog-visual {
+    background-color: rgb(219, 214, 215);
+    margin: 1%;
+    padding: 1%;
+    float: center;
+}
+
+div.last-blog-result{
+    text-align: center;
+}
+
+h2.titleList {
+    margin: 1%;
+    color: #333;
+    text-align: center;
+    font: 30px 'Open sans', sans-serif;
+}
+
+p.nextprev {
+    margin: 1%;
+}
+
+form#insertCommento{
+margin: 1%;
+padding: 0.5%;
+background: none;
+border: 1px #333;
+}
+
+form#insertLike{
+    margin: 0.1%;
+    padding: 0.1%;
+    background: none;
+    border: 1px #333;
+}
+
+div.infoblog{
+    text-align: center;
+}
+
+div.gestioneblog{
+    text-align: center;
+}
+
+div.card-new-blog{
+    padding: 1%; 
+    margin: 1%;
+}
+
+div.canc-post-btn{
+    margin: auto;
+    padding: 1%;
+    width: 50%;
+    float: center;
+}
+
+div.visualPostBox {
+    background-color: rgb(219, 214, 215);
+    margin: auto;
+    padding: 1%;
+    width: 50%;
+    float: center;
+}
+
+a.visualPostBox{
+    text-align: center;
+}
+
+div.visualtitleblog{
+    margin: auto;
+    padding: 1%;
+    width: 50%;
+    float: center;
+}
+
+div.box-blog{
+    background-color: rgb(219, 214, 215);
+    margin: 1%;
+    padding: 1%;
+}
+
+
+h3.titolo-blog{
+    color: #333;
+    font: 30px 'Open sans', sans-serif;
+}
+
+h4.visualtitleblog{
+    color: #333;
+    font: 30px 'Open sans', sans-serif;
+    background-color: #aca2a2;
+    padding: 5%;
+}
+
+p.descrizioneblog{
+    color: #333;
+}
+
+form {
+    padding: 40px;
+    background: #ffebcd;
+    border: 4px solid #AAA;
+    width: 360px;
+    margin: 30px auto;
+}
+
+input {
+    font: 14px 'Open Sans', sans-serif;
+    border: 2px solid #ccc;
+    padding: 6px;
+    display: block;
+    margin-bottom: 10px;
+    background: #ffe4e1;
+    width: 96%;
+}
+
+input::placeholder {
+    font-weight: bold;
+}
+
+button {
+    font: 14px 'Open Sans', sans-serif;
+    background-color: #333;
+    color: white;
+    padding: 6px;
+    cursor: pointer;
+    border: none;
+    margin-top: 0px;
+    text-transform: uppercase;
+}
+
+label {
+    font: 'Open Sans', sans-serif;
+    color: black;
+    font-size: 19px;
+}
+
+h4 {
+    text-align: center;
+    font: 20px 'Open Sans', sans-serif;
+}
+
+
+footer {
+    text-align: center;
+    float: bottom;
+    margin: 4%; 
+    padding: 4%;
+}
+
+.index-general {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+
+h3#titoloIndex {
+    text-align: center;
+    font: 20px 'Open Sans', sans-serif;
+    }
+
+.index-box {
+    text-align: center;
+
+}
+
+
+li {
+    list-style-type: none;
+}
+
+a {
+    font: 14px 'Open Sans', sans-serif;
+    background-color: #333;
+    color: white;
+    padding: 6px;
+    cursor: pointer;
+    border: none;
+    margin-top: auto;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+/* div profilo */ 
