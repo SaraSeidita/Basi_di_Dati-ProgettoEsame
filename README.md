@@ -15,6 +15,6 @@ Il progetto consiste nella creazione e gestione di un blog (simile a Wordpress).
 ## Struttura del Repository
 
 - Il diagramma E-R.
-- Il file SQL per la creazione del database.
+- Relazione del progetto
 - I i file per il sito web (PHP, JavaScript, HTML, CSS)
 
