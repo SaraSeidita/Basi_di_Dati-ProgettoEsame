@@ -16,5 +16,6 @@ Il progetto consiste nella creazione e gestione di un blog (simile a Wordpress).
 
 - Il diagramma E-R.
 - Relazione del progetto
+- File SQL del database (file esportato da XAMPP)
 - I i file per il sito web (PHP, JavaScript, HTML, CSS)
 
