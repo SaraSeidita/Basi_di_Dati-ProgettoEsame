@@ -1,21 +1,20 @@
-# Basi_di_Dati-ProgettoEsame
+# Basi_di_Dati - Progetto d'Esame
 
 **Basi di Dati e Laboratorio Web**  
-CdL Informatica Umanistica, Università di Pisa  
-Progetto per l'esame del corso, A.A. 2023/24
+Università di Pisa – Corso di Laurea in Informatica Umanistica  
+Anno Accademico 2023/2024
 
 ## Descrizione
 
-Il progetto consiste nella creazione e gestione di un blog (simile a Wordpress). Esso si sviluppa in tre fasi principali:
+Il progetto consiste nella creazione e gestione di un blog (simile a WordPress), articolato in tre fasi principali:
 
-1. **Progettazione concettuale**: Creazione del diagramma E-R.
-2. **Progettazione logica**: Creazione del database utilizzando SQL, tramite l'ambiente XAMPP.
-3. **Implementazione del sito**: Sviluppo del sito web utilizzando principalmente le tecnologie PHP, JavaScript, HTML e CSS.
+1. **Progettazione concettuale** – Creazione del diagramma E-R.
+2. **Progettazione logica** – Implementazione del database in SQL tramite l’ambiente XAMPP.
+3. **Sviluppo del sito web** – Utilizzo di PHP, JavaScript, HTML e CSS per la realizzazione dell’interfaccia e delle funzionalità.
 
-## Struttura del Repository
+## Struttura del repository
 
-- Il diagramma E-R.
-- Relazione del progetto
-- File SQL del database (file esportato da XAMPP)
-- I i file per il sito web (PHP, JavaScript, HTML, CSS)
-
+- Diagramma E-R  
+- Relazione del progetto  
+- File SQL del database (esportato da XAMPP)  
+- Codice sorgente del sito web (PHP, JavaScript, HTML, CSS)
